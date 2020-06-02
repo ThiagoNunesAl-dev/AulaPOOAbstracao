@@ -1,0 +1,13 @@
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\bin\Debug\netcoreapp3.1\AulaPOOLojaVirtual.exe
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\bin\Debug\netcoreapp3.1\AulaPOOLojaVirtual.deps.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\bin\Debug\netcoreapp3.1\AulaPOOLojaVirtual.runtimeconfig.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\bin\Debug\netcoreapp3.1\AulaPOOLojaVirtual.runtimeconfig.dev.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\bin\Debug\netcoreapp3.1\AulaPOOLojaVirtual.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\bin\Debug\netcoreapp3.1\AulaPOOLojaVirtual.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.csprojAssemblyReference.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.AssemblyInfo.cs
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOLojaVirtual\obj\Debug\netcoreapp3.1\AulaPOOLojaVirtual.genruntimeconfig.cache
